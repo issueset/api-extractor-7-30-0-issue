@@ -1,0 +1,6 @@
+node_modules
+dist-types/
+*.tsbuildinfo
+temp/
+tsdoc-metadata.json
+dist/

@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "target": "ES2016",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext"
+        ],
+        "moduleResolution": "node",
+        "declarationMap": true,
+        "sourceMap": true,
+        "strict": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "emitDeclarationOnly": true,
+        "declaration": true,
+        "outDir": "./dist-types",
+    },
+    "include": ["./src"],
+}
